@@ -7,4 +7,4 @@
 *    **1_regresion_lineal_profesor_ucn.ipynb:** Laboratorio de regresión lineal completo.
 
 **Laboratorio 02:** Redes neuronales poco profundas
-*    **2.1 redes_poco_profundas.ipynb:** Laboratorio clasificación lineal multiclase.
+*    **2.1-redes_poco_profundas.ipynb:** Laboratorio clasificación lineal multiclase.
