@@ -13,3 +13,7 @@
 
 **Laboratorio 03:** Laboratorios para entrenar clasificadores utilizando redes convolucionales. Se utiliza la base de datos de perros y gatos de Kaggle (https://www.kaggle.com/chetankv/dogs-cats-images). El código carga las imágenes de google drive y se utiliza el método **ImageFolder** para cargar las imágenes.
 *    **3.cnn-data_augmentation.ipynb**: Laboratorio en pytorch para entrenar una red convolucional.
+
+**Laboratorio 04:** Laboratorios para entrenar un modelo de predicción ARIMA y LSTM. 
+*    **4.ARIMA-LSTM.ipynb**: Laboratorio en pytorch para entrenar un modelo predictivo para serie de tiempo utilizando ARIMA y redes neuronales recurrentes LSTM.
+
