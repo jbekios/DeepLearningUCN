@@ -16,4 +16,5 @@
 
 **Laboratorio 04:** Laboratorios para entrenar un modelo de predicción ARIMA y LSTM. 
 *    **4.ARIMA-LSTM.ipynb**: Laboratorio en pytorch para entrenar un modelo predictivo para serie de tiempo utilizando ARIMA y redes neuronales recurrentes LSTM.
+*    **Base de datos**: https://data.gov.ie/dataset/energy-consumption-gas-and-electricity-civic-offices-2009-2012/resource/6091c604-8c94-4b44-ac52-c1694e83d746
 
