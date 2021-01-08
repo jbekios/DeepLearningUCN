@@ -18,3 +18,7 @@
 *    **4.ARIMA-LSTM.ipynb**: Laboratorio en pytorch para entrenar un modelo predictivo para serie de tiempo utilizando ARIMA y redes neuronales recurrentes LSTM.
 *    **Base de datos**: https://data.gov.ie/dataset/energy-consumption-gas-and-electricity-civic-offices-2009-2012/resource/6091c604-8c94-4b44-ac52-c1694e83d746
 
+**Laboratorio 05:** Laboratorios de modelos generativos.
+
+*    **Laboratorio05-GAN.zip**: Laboratorio completo con imágenes.
+*    **Laboratorio05-GAN:ipynb**: Laboratorio sin imágenes. (Para visualizar desde el navegador)
