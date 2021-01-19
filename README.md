@@ -22,3 +22,8 @@
 
 *    **Laboratorio05-GAN.zip**: Laboratorio completo con imágenes.
 *    **Laboratorio05-GAN:ipynb**: Laboratorio sin imágenes. (Para visualizar desde el navegador)
+
+**Laboratorio 06:** Laboratorios de aprendizaje por reforzamiento.
+
+*    **6.ReinforcementLearning.zip**: Laboratorio completo con imágenes de aprendizaje por reforzamiento. Uso **Gym** ambiente `Taxi-V3`.
+*    **6.Reinforcement-Learning:ipynb**: Laboratorio sin imágenes. (Para visualizar desde el navegador)
